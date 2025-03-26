@@ -93,9 +93,9 @@ hr {
   color: #555;
   font-size: 15px;
   font-weight: 400;
-  padding: 8px 2px;
+  padding: 0px;
   border-radius: 0;
-  margin: 9px 20px 0;
+  margin: 15px 20px 0;
 }
 #menu.navbar-default .navbar-nav > li > a:after {
   display: block;
@@ -141,7 +141,7 @@ hr {
   background-color: #608dfd;
 }
 .section-title {
-  margin-bottom: 70px;
+  margin-bottom: 60px;
 }
 .section-title h2 {
   position: relative;
@@ -314,7 +314,7 @@ header .intro-text {
   color: #fff;
 }
 #services .service-desc {
-  margin: 10px 10px 20px;
+  margin: 10px 10px 10px;
 }
 #services h2 {
   color: #fff;
